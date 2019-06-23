@@ -1,0 +1,7 @@
+*.txt
+*.png
+*.pdf
+*.pyc
+python-libtcod-source/
+__pychache__/
+tcod_doc/
